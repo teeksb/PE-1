@@ -22,3 +22,4 @@ A clean, responsive, and fully client-side calorie and macronutrient tracker bui
 ## Getting Started
 
 Simply open `index.html` in any modern web browser.
+
